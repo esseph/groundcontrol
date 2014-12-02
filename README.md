@@ -15,6 +15,7 @@ Initially we want to be able to:
 * log and timestamp config changes
 * ubnt, mikrotik, cambium ePmP support
 * group radios by AP MAC
+* schedule upgrades / mass-upgrades
 
 Eventually, we'd like to be able to:
 * Map subscribers to their APs using google maps (or similar)
