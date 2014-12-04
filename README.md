@@ -23,3 +23,6 @@ Eventually, we'd like to be able to:
 * allow other people to create/submit device templates for linux/windows hosts, routers, switches, etc
 * allow custom SNMP OID polling
 * custom ssh scripts/agents
+* alerting
+* tcp based iperf speedtest (single and multi-stream) from device to device
+* etc
