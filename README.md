@@ -25,4 +25,5 @@ Eventually, we'd like to be able to:
 * custom ssh scripts/agents
 * alerting
 * tcp based iperf speedtest (single and multi-stream) from device to device
+* remote airview (quite possible) on XM/XW series devices
 * etc
